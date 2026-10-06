@@ -1,1 +1,6 @@
+x = 3
+y = 10
+
+print(x + y)
+
 print('testando 1, 2, 3')
