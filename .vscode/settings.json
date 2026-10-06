@@ -1,3 +1,6 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "editor.defaultFoldingRangeProvider": "ms-python.autopep8",
+    "notebook.formatOnSave.enabled": true,
+    "editor.formatOnSave": true
 }
